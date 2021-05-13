@@ -30,7 +30,7 @@ export default function App() {
   function HomePage() {
     return (
       <>
-        <h1>I am in home page</h1>
+        <h1>I am in a home page</h1>
       </>
     );
   }
